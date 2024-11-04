@@ -1,6 +1,6 @@
 # Umar Muhammad Abdullahi
 
-Founder at Realms | Nigeria | umar@realms.diy | [GitHub](https://github.com/umarphaarook) | [LinkedIn](https://www.linkedin.com/in/umarphaarook)
+Founder at Realms, Inc. | Nigeria | umar@realms.diy | [GitHub](https://github.com/umarphaarook) | [LinkedIn](https://www.linkedin.com/in/umarphaarook)
 
 ## Experience
 
