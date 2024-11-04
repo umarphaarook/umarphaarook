@@ -43,7 +43,7 @@ Led development of critical healthcare systems across Africa.
 ## Technical Skills
 
 - **Platform Architecture:** Distributed systems, Real-time communication.
-- **Full-Stack Development:** TypeScript, React, Node.js, Phoenix/Elixir, Python.
+- **Full-Stack Development:** TypeScript, React, Node.js, Phoenix/Elixir, Python, Java.
 - **AI/ML:** TensorFlow, scikit-learn, Generative AI.
 - **Infrastructure:** AWS, Docker, Kubernetes, Matrix Protocol.
 - **Database & Caching:** PostgreSQL, MongoDB, Redis, Kafka.
