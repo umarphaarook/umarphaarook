@@ -14,11 +14,11 @@ Building a revolutionary startup creation platform that democratizes tech entrep
 - **Creating dual code/no-code environments** to support both technical and non-technical founders.
 - **Tech Stack:** TypeScript, React, Expo, Phoenix/Elixir, Python, PostgreSQL, Matrix Protocol, Generative AI.
 
-### [Seftey](https://seftey.vercel.app) | Founder | 2023 - 2024
+### [Seftey](https://seftey.vercel.app) | Founder | 2023
 
-Led development of an integrated student transportation system, a pivotal experience that sparked Realms.
+Led system design of an integrated student transportation system, a pivotal experience that sparked Realms.
 
-- **Developed a full-stack MVP** for school transportation management.
+- **Spent an unnecessary amount of time architecting an MVP.**
 - **Conducted extensive market research** and stakeholder interviews.
 - **Gained crucial insights** about startup validation leading to Realms.
 - **Tech Stack:** TypeScript, React, Expo, Next.js, Supabase, Google Maps API.
