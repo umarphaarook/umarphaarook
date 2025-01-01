@@ -1,10 +1,10 @@
 # Umar Muhammad Abdullahi
 
-Founder at Realms, Inc. | Nigeria | umar@realms.diy | [GitHub](https://github.com/umarphaarook) | [LinkedIn](https://www.linkedin.com/in/umarphaarook)
+Founder/CEO at Realms LLC | Nigeria | [Email](mailto:umar@realms.diy) | [GitHub](https://github.com/umarphaarook) | [LinkedIn](https://www.linkedin.com/in/umarphaarook)
 
 ## Experience
 
-### [Realms](https://realms.diy) | Founder | 2024 - Present
+### [Realms](https://realms.im) | Founder/CEO | 2024 - Present
 
 Building a revolutionary startup creation platform that democratizes tech entrepreneurship through AI-powered tools.
 
