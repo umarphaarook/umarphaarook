@@ -34,7 +34,7 @@ Led development of critical healthcare systems across Africa.
 - **Enhanced an offline-first last-mile vaccine delivery System** ([LoMIS](https://lomis.ehealthafrica.org)).
 - **Architected and implemented a real-time temperature monitoring system**, integrated with LoMIS to identify damaged vaccines, saving numerous children's lives.
 - **Led a project team of 5-8 people** and mentored interns and junior developers.
-- **Tech Stack:** Javascript, React, React Native, Redux, Node.js, Express.js, CouchDB, PouchDB, BlueMaestro Temperature Sensor.
+- **Tech Stack:** Javascript, React, React Native, Redux, Node.js, Express.js, CouchDB, PouchDB, Firebase, BlueMaestro Temperature Sensor.
 
 ### Technical Skills
 
