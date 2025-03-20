@@ -1,6 +1,6 @@
 ### Umar Muhammad Abdullahi
 
-Founder & CEO | Software Engineer | umarphaarook@gmail.com | [Porfolio](https://realms.ceo) | [Github](https://github.com/umarphaarook) | [LinkedIn](https://linkedin.com/in/umarphaarook)
+Founder & CEO | Software Engineer | umarphaarook@gmail.com | [Porfolio](https://realms.ceo) | [LinkedIn](https://linkedin.com/in/umarphaarook) | [Github](https://github.com/umarphaarook)
 
 #### Experience
 
@@ -44,18 +44,17 @@ Led development of critical healthcare systems across Africa.
 - **Infrastructure:** AWS, Docker, Kubernetes, Matrix Protocol.
 - **Database & Caching:** PostgreSQL, MongoDB, Redis, Kafka.
 
-#### Education
-
-##### [Georgia Institute of Technology](https://omscs.gatech.edu/) | M.Sc. Computer Science | Deferred.
-
-##### [International University of East Africa](https://www.iuea.ac.ug) | B.Sc. Computer Science | 2015.
-
 #### Notable Achievements
 
 - **Innovation:** Pioneering AI-driven startup validation methodologies.
 - **Open Source:** Contributor to [Aether](https://aether.ehealthafrica.org), [Gather](https://gather.ehealthafrica.org), [Legend](https://legend.finos.org), and soon, the [Matrix](https://matrix.org) ecosystem.
 - **Leadership:** Successfully led multiple projects, mentoring interns and junior developers.
 - **Impact:** Building systems to democratize startup creation globally.
+
+#### Education
+
+- [Georgia Institute of Technology](https://omscs.gatech.edu/) | M.Sc. Computer Science | Deferred.
+- [International University of East Africa](https://www.iuea.ac.ug) | B.Sc. Computer Science | 2015.
 
 #### Languages
 
