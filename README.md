@@ -1,6 +1,6 @@
 ## Umar Muhammad Abdullahi
 
-Founder & CEO | Software Engineer | umarphaarook@gmail.com | [Porfolio](https://realms.ceo) | [LinkedIn](https://linkedin.com/in/umarphaarook) | [Github](https://github.com/umarphaarook)
+Startup Founder | Software Engineer | umarphaarook@gmail.com | [Porfolio](https://realms.ceo) | [LinkedIn](https://linkedin.com/in/umarphaarook) | [Github](https://github.com/umarphaarook)
 
 ### Experience
 
